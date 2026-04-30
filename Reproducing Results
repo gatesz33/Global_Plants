@@ -1,6 +1,6 @@
 ## Reproducing Results
 1. Download the Power Plant Satellite Imagery Dataset from Data Ninja (large download).
-2. Unzip locally and run:   GeoTIFF_preprocessing_local in code folder
+2. Unzip locally and run:   GeoTIFF_preprocessing_local in Notebooks folder
 3. Zip the processed dataset as:   ds_small.zip  and place it in your local Downloads folder.
 4. Download WRI Global Power Plant Database v1.3.
 5. Open powerplant_deep_learning_final in Google Colab and set runtime to T4 GPU.
